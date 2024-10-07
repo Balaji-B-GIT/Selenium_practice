@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 # Below code is used to run scripts on brave browser-----------------------------------------
+
 # from selenium import webdriver
 # from selenium.webdriver.chrome.service import Service
 # from selenium.webdriver.chrome.options import Options
@@ -14,6 +15,7 @@ from selenium.webdriver.common.by import By
 #
 # service = Service(chromedriver_path)
 # driver = webdriver.Chrome(options=chrome_options,service=service)
+
 #----------------------------------------------------------------------------------
 
 URL = "https://www.amazon.in/dp/B0CGCZTYH2/ref=twister_B0CVQ9K5ZL?_encoding=UTF8&th=1"
